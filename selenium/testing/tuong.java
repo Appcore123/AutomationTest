@@ -26,7 +26,7 @@ public class tuong {
             case Constants.Multiple_Click_Ele:{
                 for (int Start_loop = 0; Start_loop < time_loop; Start_loop++) {
                     element.click();
-                }
+                }//test nè
             }
             case Constants.Send_Number:{
 //                element.click();
